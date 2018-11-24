@@ -15,3 +15,5 @@ client:
 npm install
 
 npm run serve
+
+users: user1/pw1234    user2/pw1234    employee1/pw1234
