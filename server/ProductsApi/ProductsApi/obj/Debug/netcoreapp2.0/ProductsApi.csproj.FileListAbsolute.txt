@@ -1,0 +1,22 @@
+C:\Users\A\source\repos\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.deps.json
+C:\Users\A\source\repos\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.runtimeconfig.json
+C:\Users\A\source\repos\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.runtimeconfig.dev.json
+C:\Users\A\source\repos\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.dll
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.AssemblyInfo.cs
+C:\Users\A\source\repos\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.pdb
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.dll
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.pdb
+C:\Users\A\source\repos\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.csprojAssemblyReference.cache
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.deps.json
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.runtimeconfig.json
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.runtimeconfig.dev.json
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.dll
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\bin\Debug\netcoreapp2.0\ProductsApi.pdb
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.csprojAssemblyReference.cache
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.AssemblyInfo.cs
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.dll
+C:\Users\A\Desktop\products crud\server\ProductsApi\ProductsApi\obj\Debug\netcoreapp2.0\ProductsApi.pdb
