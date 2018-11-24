@@ -2,18 +2,18 @@
 
 This is crud app in .net core 2.0 and vue.js.
 
-Project setup
+## Project setup
 
-server:
+### server:
 
 dotnet build
 
 dotnet run
 
-client:
+### client:
 
 npm install
 
 npm run serve
 
-users: user1/pw1234    user2/pw1234    employee1/pw1234
+### users: user1/pw1234    user2/pw1234    employee1/pw1234
