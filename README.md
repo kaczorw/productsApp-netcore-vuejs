@@ -6,6 +6,8 @@ This is crud app in .net core 2.0 and vue.js.
 
 ### server:
 
+set connection string in appsettings.json and   dotnet ef database update
+
 dotnet build
 
 dotnet run
